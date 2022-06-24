@@ -1,4 +1,4 @@
-#from re import template
+from re import template
 from django.shortcuts import render
 from django.urls import reverse_lazy
 from django.views.generic.list import ListView
